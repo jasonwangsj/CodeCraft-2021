@@ -1,6 +1,6 @@
-------------文件内容说明------------
-SDK：提交结果的文件目录示例；
-training-data：初赛练习赛提供的测试数据；
-初赛赛题任务书：题目详细信息；
-2021华为软件精英挑战赛技术Q&amp;amp;A：题目常见问题及答案；
-初赛判题错误提示说明：代码常见报错原因。
+# 文件内容说明
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SDK：提交结果的文件目录示例；  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;training-data：初赛练习赛提供的测试数据；  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;初赛赛题任务书：题目详细信息；  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2021华为软件精英挑战赛技术Q&amp;amp;A：题目常见问题及答案；  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;初赛判题错误提示说明：代码常见报错原因。
